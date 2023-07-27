@@ -1,10 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"/>
-<!--   
- <h1>
-    Hey there, I'm Tasita!
- </h1> -->
- </div>
+<div>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"/>
+</div>
 
 ### About Me :
 I am currently learning HTML & CSS, JavaScript and React <br>
@@ -24,11 +20,23 @@ I am always learning new things, ready for discussions and making new projects..
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" />&nbsp;
 </div>
 
+<br />
 
-<div align=center> 
+<div> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79600&center=true&multiline=true&width=435&lines=If+the+code+doesn't+bother+you%2C+;don't+bother+it!" alt="Your code" />
 </div>
 
+
+
+<!-- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+
+  
+ <h1>
+    Hey there, I'm Tasita!
+ </h1> 
+ </div>
+-->
 
 <!--### Hi there 👋
 
