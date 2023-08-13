@@ -23,7 +23,7 @@ I am always learning new things, ready for discussions and making new projects..
 <br />
 
 <div> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79600&center=true&multiline=true&width=435&lines=If+the+code+doesn't+bother+you%2C+;don't+bother+it!" alt="Your code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F79600&center=true&multiline=true&width=435&lines=If+the+code+doesn't+bother+you%2C+;don't+bother+it!" alt="Your code" />
 </div>
 
 
