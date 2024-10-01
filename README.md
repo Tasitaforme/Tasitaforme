@@ -3,7 +3,6 @@
 </div>
 
 ### About Me :
-I am currently learning HTML & CSS, JavaScript and React <br>
 I am always learning new things, ready for discussions and making new projects...
 
 ### Languages and tools:
